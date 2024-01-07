@@ -88,8 +88,6 @@
 - As a future work the same will be implemented using RNN for the prediction of occurrence of other diseases.
 
 
-## Paper link
-[Prediction Of Hepatitis Disease Using Machine Learning Technique ](https://ieeexplore.ieee.org/abstract/document/9032585)
 
 
 
